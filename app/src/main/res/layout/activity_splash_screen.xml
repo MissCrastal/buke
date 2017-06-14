@@ -13,7 +13,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Citadel"
+        android:text="Design"
         android:id="@+id/t"
         android:textSize="50sp"
         android:textColor="@color/White"
@@ -34,7 +34,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="MDG"
+        android:text="布客"
         android:textSize="30sp"
         android:textColor="@color/White"
         />
